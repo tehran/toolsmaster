@@ -1,0 +1,14 @@
+{
+  "output": "..",
+  "locals": {
+  },
+  "plugins": [
+  ],
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  }
+}
