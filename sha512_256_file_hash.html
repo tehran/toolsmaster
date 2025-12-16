@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="SHA512/256 online hash file checksum function">
+    <title>SHA512/256 File Hash Online
+    </title>
+    <script>
+      if (location.hostname != 'localhost') {
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-44208259-6', 'auto');
+        ga('send', 'pageview');
+      }
+    </script>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
+  </head>
+  <body>
+    <div id="header">
+      <h1><a href="index.html">Online Tools</a></h1>
+    </div>
+    <div id="body">
+      <script src="js/main.js"></script>
+      <div id="main">
+        <h1>SHA512/256 File Hash
+        </h1>
+        <div class="description">SHA512/256 online hash file checksum function
+        </div>
+        <div class="input">
+          <div id="droppable-zone">
+            <div id="droppable-zone-wrapper">
+              <div id="droppable-zone-text">Drop File Here</div>
+            </div>
+            <input id="input" type="file" placeholder="Input2" class="droppable-file">
+          </div>
+        </div>
+        <div class="submit">
+          <input id="execute" type="button" value="Hash" class="btn btn-default">
+          <label>
+            <input id="auto-update" type="checkbox" value="1" checked="checked">Auto Update
+          </label>
+        </div>
+        <div class="output">
+          <textarea id="output" placeholder="Output"></textarea>
+        </div>
+      </div>
+      <script src="js/sha512.min.js"></script>
+      <script>method = sha512_256;</script>
+    </div>
+    <div id="footer">© 2023 <a href="https://scrypter.dev">sCrypteR.dev</a>. Powered by <a href="https://www.linkedin.com/in/tehranguluzade">Tehran Guluzade</a>.</div>
+  </body>
+</html>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://tools.sCrypteR.dev/index.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/crc16.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/crc32.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/md2.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/md4.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/md5.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/sha1.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/sha224.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/sha256.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/sha384.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/sha512.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/sha512_224.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/sha512_256.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/sha3_224.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/sha3_256.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/sha3_384.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/sha3_512.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/keccak_224.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/keccak_256.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/keccak_384.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/keccak_512.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/shake_128.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/shake_256.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/crc32_checksum.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/md5_checksum.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/sha1_checksum.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/base32_encode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/base32_decode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/base64_encode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/base64_decode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/base64_encode_file.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/base64_decode_file.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/html_encode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/html_decode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/url_encode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://tools.sCrypteR.dev/url_decode.html</loc>
+  <lastmod>2016-07-12T08:08:11+00:00</lastmod>
+</url>
+</urlset>
